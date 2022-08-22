@@ -11,6 +11,6 @@ The source code is released under the terms of the LaTeX Project Public License 
 
 Author: Marco Reis, marcoreis@me.com
 
-<!-- - 📫 How to reach me: <a href="https://www.linkedin.com/in/marco-reis-061618/">LinkedIn</a> or <a href="https://mhar-vell.github.io/portfolio/index.html/">My Portfolio</a>. -->
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/marco-reis-061618/">LinkedIn</a> or <a href="https://mhar-vell.github.io/portfolio/index.html/">My Portfolio</a>.
 
 The repository package has been tested under Ubuntu 20.04 LTS.
